@@ -219,7 +219,7 @@ h1 {
 
 /* Content Styling */
 .character {
-  font-size: 5rem;
+  font-size: 12rem;
   font-weight: bold;
   margin-bottom: 1rem;
 }
@@ -320,7 +320,7 @@ button:disabled {
   }
   
   .character {
-    font-size: 4.5rem;
+    font-size: 12rem;
   }
   
   .romaji {
@@ -340,11 +340,11 @@ button:disabled {
   }
   
   .character {
-    font-size: 4rem;
+    font-size: 10rem;
   }
   
   .romaji {
-    font-size: 1.6rem;
+    font-size: 4rem;
   }
   
   .example {
@@ -368,7 +368,7 @@ button:disabled {
   }
   
   .character {
-    font-size: 6rem;
+    font-size: 13rem;
   }
   
   .romaji {
